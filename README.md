@@ -5,12 +5,12 @@ Welcome to the Power BI project for the global store dataset! This project deliv
 
 # Table of Contents
 * Getting Started
-*Data Cleaning
-.Visual Segmentation
-.Shipping Analysis
-.Sales Visualizations
-.Tables
-.Contributing
-.To download Power BI File
+* Data Cleaning
+* Visual Segmentation
+* Shipping Analysis
+* Sales Visualizations
+* Tables
+* Contributing
+* To download Power BI File
 
 
